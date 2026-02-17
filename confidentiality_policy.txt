@@ -1,6 +1,6 @@
 Politique de confidentialité — Invested
 
-Dernière mise à jour : [date]
+Dernière mise à jour : 17/02/2026
 
 Aucune donnée collectée
 Invested fonctionne entièrement en local sur votre appareil. 
@@ -12,4 +12,4 @@ Les prix des actifs sont récupérés via l'API Yahoo Finance.
 Seul le ticker (ex: AAPL) est envoyé pour obtenir le prix actuel.
 
 Contact
-Pour toute question : [ton email]
+Pour toute question : romainserano1@gmail.com
